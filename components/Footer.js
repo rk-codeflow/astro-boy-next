@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <h4>I am a footer</h4>
+    <footer>Copyright 2023 | NextJS</footer>
    );
 }
 
